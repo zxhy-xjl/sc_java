@@ -15,9 +15,6 @@ import play.i18n.Messages;
 import utils.StringUtil;
 import utils.ValidateUtil;
 
-/**
- * 
- */
 public final class BaseAppException extends Exception implements Serializable {
 
 	private static final long serialVersionUID = -27020729327620212L;
